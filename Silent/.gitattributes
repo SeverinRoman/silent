@@ -1,3 +1,0 @@
-# UE file types
-*text=auto
-Content/LFS/** filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\GitHub\\silent\\Silent\\Source\\Silent\\Silent.Build.cs",
+		"C:\\GitHub\\silent\\Silent\\Source\\Silent.Target.cs",
+		"C:\\GitHub\\silent\\Silent\\Source\\SilentEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.0"
+}

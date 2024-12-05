@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\github\\silent\\silent\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\silent\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\github\\silent\\silent\\intermediate\\build\\win64\\x64\\silenteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\github\\silent\\silent\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\silent\\definitions.silent.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
