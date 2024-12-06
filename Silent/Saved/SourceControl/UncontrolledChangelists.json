@@ -5,6 +5,25 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/GitHub/silent/Silent/Content/AAASilent/Levels/L_Main.umap",
+				"C:/GitHub/silent/Silent/Content/AAASilent/ART/SkeletalMeshes/Phase_GDC.uasset",
+				"C:/GitHub/silent/Silent/Content/AAASilent/ART/SkeletalMeshes/SM_Phase.uasset",
+				"C:/GitHub/silent/Silent/Content/AAASilent/Blueprint/Phase/BP_Phase.uasset",
+				"C:/GitHub/silent/Silent/Content/ParagonPhase/Characters/Heroes/Phase/PhasePlayerCharacter.uasset",
+				"C:/GitHub/silent/Silent/Content/AAASilent/Blueprint/GameModes/BP_GameMode.uasset",
+				"C:/GitHub/silent/Silent/Content/AAASilent/Blueprint/Phase/AB_Phase.uasset",
+				"C:/GitHub/silent/Silent/Content/AAASilent/Blueprint/Phase/ABP_Phase.uasset",
+				"C:/GitHub/silent/Silent/Content/ParagonPhase/Characters/Heroes/Phase/Animations/AimOffset/Idle_AO.uasset",
+				"C:/GitHub/silent/Silent/Content/AAASilent/Blueprint/Input/IMC_Input.uasset",
+				"C:/GitHub/silent/Silent/Content/AAASilent/Blueprint/Input/Actions/Move.uasset",
+				"C:/GitHub/silent/Silent/Content/AAASilent/Blueprint/PlayerController/BP_PlayerController.uasset",
+				"C:/GitHub/silent/Silent/Content/AAASilent/Blueprint/Input/Actions/Look.uasset",
+				"C:/GitHub/silent/Silent/Content/AAASilent/Blueprint/Input/Actions/IA_Move.uasset",
+				"C:/GitHub/silent/Silent/Content/AAASilent/Blueprint/Input/Actions/IA_Look.uasset",
+				"C:/GitHub/silent/Silent/Content/ParagonPhase/Characters/Heroes/Phase/Meshes/Phase_Extents.uasset",
+				"C:/GitHub/silent/Silent/Content/ParagonPhase/Characters/Heroes/Phase/Meshes/Phase_GDC.uasset",
+				"C:/GitHub/silent/Silent/Content/ParagonPhase/Characters/Heroes/Phase/Materials/MIC_Phase_jacket.uasset",
+				"C:/GitHub/silent/Silent/Content/ParagonPhase/Characters/Heroes/Phase/Materials/Parent/M_Phase_jacket_tights.uasset",
 				"C:/GitHub/silent/Silent/Content/AAASilent/Levels/Main_HLOD0_Instancing.uasset",
 				"C:/GitHub/silent/Silent/Content/__ExternalActors__/AAASilent/Levels/Main/4/I5/EVRE4WF56A5QNF5KV0HW5S.uasset",
 				"C:/GitHub/silent/Silent/Content/__ExternalObjects__/AAASilent/Levels/Main/9/UO/K0BOY9P1PXZI4GW4JAP8KS.uasset",
@@ -151,8 +170,7 @@
 				"C:/GitHub/silent/Silent/Content/__ExternalActors__/AAASilent/Levels/Main/E/AX/V108MQ3ISNAFOSXO45GSJ9.uasset",
 				"C:/GitHub/silent/Silent/Content/__ExternalActors__/AAASilent/Levels/Main/1/CO/6DMQZ7OD9YYZBR77KNZLIK.uasset",
 				"C:/GitHub/silent/Silent/Content/AAASilent/Levels/Main.umap",
-				"C:/GitHub/silent/Silent/Content/__ExternalObjects__/AAASilent/Levels/Main/0/OI/FH9KB8JSERCZNM4I52EPRQ.uasset",
-				"C:/GitHub/silent/Silent/Content/AAASilent/Levels/L_Main.umap"
+				"C:/GitHub/silent/Silent/Content/__ExternalObjects__/AAASilent/Levels/Main/0/OI/FH9KB8JSERCZNM4I52EPRQ.uasset"
 			]
 		}
 	]
