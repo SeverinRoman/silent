@@ -19,6 +19,16 @@ public:
 	UMoveComponent();
 
 public:
+	UPROPERTY(EditDefaultsOnly)
+	float WalkSpeed = 200.f;
+
+	UPROPERTY(EditDefaultsOnly)
+	float RunSpeed = 450.f;
+
+public:
+	UFUNCTION(BlueprintCallable)
+	void Move(float X, float Y);
+	
 	UFUNCTION(BlueprintCallable)
 	void Crouch();
 	
@@ -30,10 +40,12 @@ public:
 	
 	UFUNCTION(BlueprintCallable)
 	void UnJump();
+	
+	UFUNCTION(BlueprintCallable)
+	void Run();
 
-private:
-	UFUNCTION()
-	void Init();
+	UFUNCTION(BlueprintCallable)
+	void Walk();
 
 private:
 	UPROPERTY()
@@ -51,6 +63,13 @@ private:
 
 	UPROPERTY()
 	UAnimationComponent* AnimationComponent;
+
+private:
+	UFUNCTION()
+	void Init();
+	
+	UFUNCTION()
+	void StopStandBy();
 
 private:	
 	virtual void BeginPlay() override;
